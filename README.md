@@ -1,6 +1,8 @@
 # TMProExtensions
 TMProの拡張用クラスです。現在は数字をGCAlloc無しで表示できる機能が準備されています。
 
+This software is released under the MIT License, see LICENSE.txt.
+
 ## Usage
 
 1. Import Package
