@@ -4,6 +4,7 @@ using TMPro;
 
 /// <summary>
 /// This software is released under the MIT License, see LICENSE.
+/// https://github.com/honobonoK/TMProExtensions
 /// </summary>
 namespace Honobono.Unity.Utils
 {
