@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using TMPro;
 
-namespace Ykishida.Unity.Utils
+namespace Honobono.Unity.Utils
 {
     #region Extensions
     /// <summary>

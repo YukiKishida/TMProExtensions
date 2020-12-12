@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using Ykishida.Unity.Utils;
+using Honobono.Unity.Utils;
 
 public class TMProExtensionsSample : MonoBehaviour
 {
