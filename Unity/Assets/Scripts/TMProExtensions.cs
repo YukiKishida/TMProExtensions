@@ -2,6 +2,9 @@
 using UnityEngine.UI;
 using TMPro;
 
+/// <summary>
+/// This software is released under the MIT License, see LICENSE.
+/// </summary>
 namespace Honobono.Unity.Utils
 {
     #region Extensions
