@@ -3,7 +3,7 @@ TMProの拡張用クラスです。現在は数字をGCAlloc無しで表示で�
     * https://github.com/honobonoK/TMProExtensions/blob/main/Unity/Assets/Scripts/TMProExtensions.cs
 
 ## Sample
-    * https://github.com/honobonoK/TMProExtensions/blob/main/Unity/Assets/Scripts/Sample/TMProExtensionsSample.cs
+　　 * https://github.com/honobonoK/TMProExtensions/blob/main/Unity/Assets/Scripts/Sample/TMProExtensionsSample.cs
 
 ## Usage
 
@@ -18,5 +18,4 @@ TMProの拡張用クラスです。現在は数字をGCAlloc無しで表示で�
     
 ## LICENSE
 This software is released under the MIT License, see LICENSE.
-
     * https://github.com/honobonoK/TMProExtensions/blob/main/LICENSE
