@@ -1,11 +1,18 @@
-﻿using UnityEngine;
+﻿// ----------------------------------------------------------------
+// Copyright (c) 2020 ほのぼのきっし
+//
+// This software is released under the MIT License, see LICENSE.
+// https://github.com/honobonoK/TMProExtensions
+// 
+// TMProExtensions.cs
+// Author honobonoK
+// Version 1.0.0
+// ----------------------------------------------------------------
+
+using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-/// <summary>
-/// This software is released under the MIT License, see LICENSE.
-/// https://github.com/honobonoK/TMProExtensions
-/// </summary>
 namespace Honobono.Unity.Utils
 {
     #region Extensions
