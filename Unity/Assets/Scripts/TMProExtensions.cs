@@ -2,7 +2,7 @@
 // Copyright (c) 2020 ほのぼのきっし
 //
 // This software is released under the MIT License, see LICENSE.
-// https://github.com/honobonoK/TMProExtensions
+// https://github.com/honobonoK/TMProExtensions/blob/main/LICENSE
 // 
 // TMProExtensions.cs
 // Author honobonoK
