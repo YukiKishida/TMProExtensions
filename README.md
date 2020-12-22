@@ -17,5 +17,5 @@ https://github.com/honobonoK/TMProExtensions/blob/main/Unity/Assets/Scripts/Samp
     * https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
     
 ## LICENSE
-This software is released under the MIT License, see LICENSE.
+This software is released under the MIT License, see LICENSE.<br>
 https://github.com/honobonoK/TMProExtensions/blob/main/LICENSE
